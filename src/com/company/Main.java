@@ -9,6 +9,8 @@ public class Main {
         System.out.print(vitya.height);
         Person katja = new Person(123);
         System.out.print(katja.height);
+        //add something to check GitHub
+        int GitVar = 1;
     }
 }
 
