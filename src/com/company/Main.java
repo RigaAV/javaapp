@@ -15,6 +15,11 @@ public class Main {
         System.out.print(alex.name);
         System.out.println(GitVar);
         String TestingVariable = "GitUpload";
+
+        System.out.println("");
+        Student freshmeat = new Student();
+        System.out.println(freshmeat.name);
+        System.out.println(freshmeat.course);
     }
 }
 
