@@ -14,7 +14,7 @@ public class Main {
         Person alex = new Person("Alex");
         System.out.print(alex.name);
         System.out.println(GitVar);
-
+        String TestingVariable = "GitUpload";
     }
 }
 
