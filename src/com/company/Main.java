@@ -20,6 +20,12 @@ public class Main {
         Student freshmeat = new Student();
         System.out.println(freshmeat.name);
         System.out.println(freshmeat.course);
+
+        Student mentee = new Student(210,"Pedro", 2);
+        mentee.tell();
+
+        Student lexik = new Student(171,"LExik", 1);
+        lexik.tell();
     }
 }
 
