@@ -26,6 +26,9 @@ public class Main {
 
         Student lexik = new Student(171,"LExik", 1);
         lexik.tell();
+        Shape[] arr = new Shape[] {new Circle(),new Square(), new Triangle()};
+        for(int i = 0; i<arr.length; i++)
+            arr[i].draw();
     }
 }
 

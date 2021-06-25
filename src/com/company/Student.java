@@ -1,6 +1,6 @@
 package com.company;
 
-//inheritance - Nasledovanie
+//inheritance - Nasledovanie - extends
 public class Student extends Person {
     int course = 1;
 
